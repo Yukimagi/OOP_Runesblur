@@ -1,0 +1,37 @@
+﻿  BattlePage.cpp
+C:\Users\USER\source\repos\Runesblur\Runesblur\Runesblur\BattlePage.cpp(99,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  Card.cpp
+  ChoosingPage.cpp
+  GameLibrary.cpp
+  Human.cpp
+  Maingamer.cpp
+C:\Users\USER\source\repos\Runesblur\Runesblur\Runesblur\Maingamer.cpp(37,22): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  MainPage.cpp
+C:\Users\USER\source\repos\Runesblur\Runesblur\Runesblur\MainPage.cpp(94,32): warning C4267: '-=': 將 'size_t' 轉換為 'SHORT'，資料可能遺失
+  Map.cpp
+  MapPage.cpp
+  Monster.cpp
+C:\Users\USER\source\repos\Runesblur\Runesblur\Runesblur\Monster.cpp(157,26): warning C4244: 'return': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  Page.cpp
+  Poker.cpp
+C:\Users\USER\source\repos\Runesblur\Runesblur\Runesblur\Poker.cpp(105,28): warning C4244: 'return': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\source\repos\Runesblur\Runesblur\Runesblur\Poker.cpp(144,25): warning C4244: 'return': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  Runesblur.cpp
+C:\Users\USER\source\repos\Runesblur\Runesblur\Runesblur\Runesblur.cpp(56,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\source\repos\Runesblur\Runesblur\Runesblur\Runesblur.cpp(183,28): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\source\repos\Runesblur\Runesblur\Runesblur\Runesblur.cpp(184,28): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\source\repos\Runesblur\Runesblur\Runesblur\Runesblur.cpp(185,28): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\source\repos\Runesblur\Runesblur\Runesblur\Runesblur.cpp(186,28): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\source\repos\Runesblur\Runesblur\Runesblur\Runesblur.cpp(187,28): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\source\repos\Runesblur\Runesblur\Runesblur\Runesblur.cpp(188,28): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\source\repos\Runesblur\Runesblur\Runesblur\Runesblur.cpp(189,29): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\source\repos\Runesblur\Runesblur\Runesblur\Runesblur.cpp(190,29): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\source\repos\Runesblur\Runesblur\Runesblur\Runesblur.cpp(191,29): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\source\repos\Runesblur\Runesblur\Runesblur\Runesblur.cpp(192,29): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  正在產生程式碼...
+C:\Users\USER\source\repos\Runesblur\Runesblur\Runesblur\Poker.cpp(102): warning C4715: 'Poker::calculateDamage': 不是所有控制路徑都傳回值
+C:\Users\USER\source\repos\Runesblur\Runesblur\Runesblur\Monster.cpp(139): warning C4715: 'Monster::calculateDamage': 不是所有控制路徑都傳回值
+C:\Users\USER\source\repos\Runesblur\Runesblur\Runesblur\ChoosingPage.cpp(68): warning C4715: 'ChoosingPage::getElementString': 不是所有控制路徑都傳回值
+C:\Users\USER\source\repos\Runesblur\Runesblur\Runesblur\BattlePage.cpp(58): warning C4715: 'BattlePage::getElementString': 不是所有控制路徑都傳回值
+C:\Users\USER\source\repos\Runesblur\Runesblur\Runesblur\BattlePage.cpp(281): warning C4715: 'BattlePage::print': 不是所有控制路徑都傳回值
+  Runesblur.vcxproj -> C:\Users\USER\source\repos\Runesblur\Runesblur\x64\Debug\Runesblur.exe
